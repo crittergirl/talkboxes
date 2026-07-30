@@ -6,7 +6,7 @@ pressing keys on either box would light up the corresponding keys on the other b
 it let people communicate anonymously and spontaneously.
 there were no instructions.
 
-[](https://raw.githubusercontent.com/crittergirl/talkboxes/main/talkboxes.mp4)
+[![talkboxes.mp4](https://raw.githubusercontent.com/crittergirl/talkboxes/main/talkboxes_thumbnail.png)](https://raw.githubusercontent.com/crittergirl/talkboxes/main/talkboxes.mp4)
 
 ## how it worked
 
